@@ -1,0 +1,384 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="未分类",1001
+http://117.135.56.6:6060/cms001/ch00000090990000001001/index.m3u8
+#EXTINF:-1 group-title="未分类",1005
+http://117.135.56.6:6060/cms001/ch00000090990000001005/index.m3u8
+#EXTINF:-1 group-title="未分类",1007
+http://117.135.56.6:6060/cms001/ch00000090990000001007/index.m3u8
+#EXTINF:-1 group-title="未分类",1006
+http://117.135.56.6:6060/cms001/ch00000090990000001006/index.m3u8
+#EXTINF:-1 group-title="未分类",1008
+http://117.135.56.6:6060/cms001/ch00000090990000001008/index.m3u8
+#EXTINF:-1 group-title="未分类",1010
+http://117.135.56.6:6060/cms001/ch00000090990000001010/index.m3u8
+#EXTINF:-1 group-title="未分类",1011
+http://117.135.56.6:6060/cms001/ch00000090990000001011/index.m3u8
+#EXTINF:-1 group-title="未分类",1009
+http://117.135.56.6:6060/cms001/ch00000090990000001009/index.m3u8
+#EXTINF:-1 group-title="未分类",1012
+http://117.135.56.6:6060/cms001/ch00000090990000001012/index.m3u8
+#EXTINF:-1 group-title="未分类",1013
+http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
+#EXTINF:-1 group-title="未分类",1014
+http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
+#EXTINF:-1 group-title="未分类",1015
+http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
+#EXTINF:-1 group-title="未分类",1016
+http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
+#EXTINF:-1 group-title="未分类",1017
+http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
+#EXTINF:-1 group-title="未分类",1018
+http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1 group-title="未分类",1020
+http://117.135.56.6:6060/cms001/ch00000090990000001020/index.m3u8
+#EXTINF:-1 group-title="未分类",1022
+http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
+#EXTINF:-1 group-title="未分类",1023
+http://117.135.56.6:6060/cms001/ch00000090990000001023/index.m3u8
+#EXTINF:-1 group-title="未分类",1026
+http://117.135.56.6:6060/cms001/ch00000090990000001026/index.m3u8
+#EXTINF:-1 group-title="未分类",1028
+http://117.135.56.6:6060/cms001/ch00000090990000001028/index.m3u8
+#EXTINF:-1 group-title="未分类",1029
+http://117.135.56.6:6060/cms001/ch00000090990000001029/index.m3u8
+#EXTINF:-1 group-title="未分类",1031
+http://117.135.56.6:6060/cms001/ch00000090990000001031/index.m3u8
+#EXTINF:-1 group-title="未分类",1027
+http://117.135.56.6:6060/cms001/ch00000090990000001027/index.m3u8
+#EXTINF:-1 group-title="未分类",1030
+http://117.135.56.6:6060/cms001/ch00000090990000001030/index.m3u8
+#EXTINF:-1 group-title="未分类",1032
+http://117.135.56.6:6060/cms001/ch00000090990000001032/index.m3u8
+#EXTINF:-1 group-title="未分类",1036
+http://117.135.56.6:6060/cms001/ch00000090990000001036/index.m3u8
+#EXTINF:-1 group-title="未分类",1033
+http://117.135.56.6:6060/cms001/ch00000090990000001033/index.m3u8
+#EXTINF:-1 group-title="未分类",1034
+http://117.135.56.6:6060/cms001/ch00000090990000001034/index.m3u8
+#EXTINF:-1 group-title="未分类",1035
+http://117.135.56.6:6060/cms001/ch00000090990000001035/index.m3u8
+#EXTINF:-1 group-title="未分类",1037
+http://117.135.56.6:6060/cms001/ch00000090990000001037/index.m3u8
+#EXTINF:-1 group-title="未分类",1039
+http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
+#EXTINF:-1 group-title="未分类",1040
+http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
+#EXTINF:-1 group-title="未分类",1046
+http://117.135.56.6:6060/cms001/ch00000090990000001046/index.m3u8
+#EXTINF:-1 group-title="未分类",1048
+http://117.135.56.6:6060/cms001/ch00000090990000001048/index.m3u8
+#EXTINF:-1 group-title="未分类",1049
+http://117.135.56.6:6060/cms001/ch00000090990000001049/index.m3u8
+#EXTINF:-1 group-title="未分类",1054
+http://117.135.56.6:6060/cms001/ch00000090990000001054/index.m3u8
+#EXTINF:-1 group-title="未分类",1053
+http://117.135.56.6:6060/cms001/ch00000090990000001053/index.m3u8
+#EXTINF:-1 group-title="未分类",1055
+http://117.135.56.6:6060/cms001/ch00000090990000001055/index.m3u8
+#EXTINF:-1 group-title="未分类",1058
+http://117.135.56.6:6060/cms001/ch00000090990000001058/index.m3u8
+#EXTINF:-1 group-title="未分类",1056
+http://117.135.56.6:6060/cms001/ch00000090990000001056/index.m3u8
+#EXTINF:-1 group-title="未分类",1059
+http://117.135.56.6:6060/cms001/ch00000090990000001059/index.m3u8
+#EXTINF:-1 group-title="未分类",1060
+http://117.135.56.6:6060/cms001/ch00000090990000001060/index.m3u8
+#EXTINF:-1 group-title="未分类",1062
+http://117.135.56.6:6060/cms001/ch00000090990000001062/index.m3u8
+#EXTINF:-1 group-title="未分类",1057
+http://117.135.56.6:6060/cms001/ch00000090990000001057/index.m3u8
+#EXTINF:-1 group-title="未分类",1063
+http://117.135.56.6:6060/cms001/ch00000090990000001063/index.m3u8
+#EXTINF:-1 group-title="未分类",1061
+http://117.135.56.6:6060/cms001/ch00000090990000001061/index.m3u8
+#EXTINF:-1 group-title="未分类",1066
+http://117.135.56.6:6060/cms001/ch00000090990000001066/index.m3u8
+#EXTINF:-1 group-title="未分类",1067
+http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
+#EXTINF:-1 group-title="未分类",1065
+http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
+#EXTINF:-1 group-title="未分类",1069
+http://117.135.56.6:6060/cms001/ch00000090990000001069/index.m3u8
+#EXTINF:-1 group-title="未分类",1068
+http://117.135.56.6:6060/cms001/ch00000090990000001068/index.m3u8
+#EXTINF:-1 group-title="未分类",1071
+http://117.135.56.6:6060/cms001/ch00000090990000001071/index.m3u8
+#EXTINF:-1 group-title="未分类",1070
+http://117.135.56.6:6060/cms001/ch00000090990000001070/index.m3u8
+#EXTINF:-1 group-title="未分类",1072
+http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
+#EXTINF:-1 group-title="未分类",1073
+http://117.135.56.6:6060/cms001/ch00000090990000001073/index.m3u8
+#EXTINF:-1 group-title="未分类",1074
+http://117.135.56.6:6060/cms001/ch00000090990000001074/index.m3u8
+#EXTINF:-1 group-title="未分类",1077
+http://117.135.56.6:6060/cms001/ch00000090990000001077/index.m3u8
+#EXTINF:-1 group-title="未分类",1075
+http://117.135.56.6:6060/cms001/ch00000090990000001075/index.m3u8
+#EXTINF:-1 group-title="未分类",1076
+http://117.135.56.6:6060/cms001/ch00000090990000001076/index.m3u8
+#EXTINF:-1 group-title="未分类",1080
+http://117.135.56.6:6060/cms001/ch00000090990000001080/index.m3u8
+#EXTINF:-1 group-title="未分类",1078
+http://117.135.56.6:6060/cms001/ch00000090990000001078/index.m3u8
+#EXTINF:-1 group-title="未分类",1081
+http://117.135.56.6:6060/cms001/ch00000090990000001081/index.m3u8
+#EXTINF:-1 group-title="未分类",1079
+http://117.135.56.6:6060/cms001/ch00000090990000001079/index.m3u8
+#EXTINF:-1 group-title="未分类",1082
+http://117.135.56.6:6060/cms001/ch00000090990000001082/index.m3u8
+#EXTINF:-1 group-title="未分类",1083
+http://117.135.56.6:6060/cms001/ch00000090990000001083/index.m3u8
+#EXTINF:-1 group-title="未分类",1084
+http://117.135.56.6:6060/cms001/ch00000090990000001084/index.m3u8
+#EXTINF:-1 group-title="未分类",1085
+http://117.135.56.6:6060/cms001/ch00000090990000001085/index.m3u8
+#EXTINF:-1 group-title="未分类",1086
+http://117.135.56.6:6060/cms001/ch00000090990000001086/index.m3u8
+#EXTINF:-1 group-title="未分类",1088
+http://117.135.56.6:6060/cms001/ch00000090990000001088/index.m3u8
+#EXTINF:-1 group-title="未分类",1087
+http://117.135.56.6:6060/cms001/ch00000090990000001087/index.m3u8
+#EXTINF:-1 group-title="未分类",1089
+http://117.135.56.6:6060/cms001/ch00000090990000001089/index.m3u8
+#EXTINF:-1 group-title="未分类",1091
+http://117.135.56.6:6060/cms001/ch00000090990000001091/index.m3u8
+#EXTINF:-1 group-title="未分类",1092
+http://117.135.56.6:6060/cms001/ch00000090990000001092/index.m3u8
+#EXTINF:-1 group-title="未分类",1093
+http://117.135.56.6:6060/cms001/ch00000090990000001093/index.m3u8
+#EXTINF:-1 group-title="未分类",1094
+http://117.135.56.6:6060/cms001/ch00000090990000001094/index.m3u8
+#EXTINF:-1 group-title="未分类",1095
+http://117.135.56.6:6060/cms001/ch00000090990000001095/index.m3u8
+#EXTINF:-1 group-title="未分类",1096
+http://117.135.56.6:6060/cms001/ch00000090990000001096/index.m3u8
+#EXTINF:-1 group-title="未分类",1098
+http://117.135.56.6:6060/cms001/ch00000090990000001098/index.m3u8
+#EXTINF:-1 group-title="未分类",1100
+http://117.135.56.6:6060/cms001/ch00000090990000001100/index.m3u8
+#EXTINF:-1 group-title="未分类",1104
+http://117.135.56.6:6060/cms001/ch00000090990000001104/index.m3u8
+#EXTINF:-1 group-title="未分类",1106
+http://117.135.56.6:6060/cms001/ch00000090990000001106/index.m3u8
+#EXTINF:-1 group-title="未分类",1108
+http://117.135.56.6:6060/cms001/ch00000090990000001108/index.m3u8
+#EXTINF:-1 group-title="未分类",1107
+http://117.135.56.6:6060/cms001/ch00000090990000001107/index.m3u8
+#EXTINF:-1 group-title="未分类",1110
+http://117.135.56.6:6060/cms001/ch00000090990000001110/index.m3u8
+#EXTINF:-1 group-title="未分类",1111
+http://117.135.56.6:6060/cms001/ch00000090990000001111/index.m3u8
+#EXTINF:-1 group-title="未分类",1114
+http://117.135.56.6:6060/cms001/ch00000090990000001114/index.m3u8
+#EXTINF:-1 group-title="未分类",1117
+http://117.135.56.6:6060/cms001/ch00000090990000001117/index.m3u8
+#EXTINF:-1 group-title="未分类",1120
+http://117.135.56.6:6060/cms001/ch00000090990000001120/index.m3u8
+#EXTINF:-1 group-title="未分类",1121
+http://117.135.56.6:6060/cms001/ch00000090990000001121/index.m3u8
+#EXTINF:-1 group-title="未分类",1129
+http://117.135.56.6:6060/cms001/ch00000090990000001129/index.m3u8
+#EXTINF:-1 group-title="未分类",1130
+http://117.135.56.6:6060/cms001/ch00000090990000001130/index.m3u8
+#EXTINF:-1 group-title="未分类",1132
+http://117.135.56.6:6060/cms001/ch00000090990000001132/index.m3u8
+#EXTINF:-1 group-title="未分类",1142
+http://117.135.56.6:6060/cms001/ch00000090990000001142/index.m3u8
+#EXTINF:-1 group-title="未分类",1149
+http://117.135.56.6:6060/cms001/ch00000090990000001149/index.m3u8
+#EXTINF:-1 group-title="未分类",1150
+http://117.135.56.6:6060/cms001/ch00000090990000001150/index.m3u8
+#EXTINF:-1 group-title="未分类",1148
+http://117.135.56.6:6060/cms001/ch00000090990000001148/index.m3u8
+#EXTINF:-1 group-title="未分类",1151
+http://117.135.56.6:6060/cms001/ch00000090990000001151/index.m3u8
+#EXTINF:-1 group-title="未分类",1152
+http://117.135.56.6:6060/cms001/ch00000090990000001152/index.m3u8
+#EXTINF:-1 group-title="未分类",1153
+http://117.135.56.6:6060/cms001/ch00000090990000001153/index.m3u8
+#EXTINF:-1 group-title="未分类",1154
+http://117.135.56.6:6060/cms001/ch00000090990000001154/index.m3u8
+#EXTINF:-1 group-title="未分类",1162
+http://117.135.56.6:6060/cms001/ch00000090990000001162/index.m3u8
+#EXTINF:-1 group-title="未分类",1183
+http://117.135.56.6:6060/cms001/ch00000090990000001183/index.m3u8
+#EXTINF:-1 group-title="未分类",1184
+http://117.135.56.6:6060/cms001/ch00000090990000001184/index.m3u8
+#EXTINF:-1 group-title="未分类",1187
+http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
+#EXTINF:-1 group-title="未分类",1185
+http://117.135.56.6:6060/cms001/ch00000090990000001185/index.m3u8
+#EXTINF:-1 group-title="未分类",1186
+http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8
+#EXTINF:-1 group-title="未分类",1188
+http://117.135.56.6:6060/cms001/ch00000090990000001188/index.m3u8
+#EXTINF:-1 group-title="未分类",1189
+http://117.135.56.6:6060/cms001/ch00000090990000001189/index.m3u8
+#EXTINF:-1 group-title="未分类",1192
+http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
+#EXTINF:-1 group-title="未分类",1194
+http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
+#EXTINF:-1 group-title="未分类",1193
+http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
+#EXTINF:-1 group-title="未分类",1195
+http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
+#EXTINF:-1 group-title="未分类",1199
+http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
+#EXTINF:-1 group-title="未分类",1196
+http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
+#EXTINF:-1 group-title="未分类",1200
+http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
+#EXTINF:-1 group-title="未分类",1203
+http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
+#EXTINF:-1 group-title="未分类",1201
+http://117.135.56.6:6060/cms001/ch00000090990000001201/index.m3u8
+#EXTINF:-1 group-title="未分类",1219
+http://117.135.56.6:6060/cms001/ch00000090990000001219/index.m3u8
+#EXTINF:-1 group-title="未分类",1220
+http://117.135.56.6:6060/cms001/ch00000090990000001220/index.m3u8
+#EXTINF:-1 group-title="未分类",1221
+http://117.135.56.6:6060/cms001/ch00000090990000001221/index.m3u8
+#EXTINF:-1 group-title="未分类",1222
+http://117.135.56.6:6060/cms001/ch00000090990000001222/index.m3u8
+#EXTINF:-1 group-title="未分类",1224
+http://117.135.56.6:6060/cms001/ch00000090990000001224/index.m3u8
+#EXTINF:-1 group-title="未分类",1223
+http://117.135.56.6:6060/cms001/ch00000090990000001223/index.m3u8
+#EXTINF:-1 group-title="未分类",1225
+http://117.135.56.6:6060/cms001/ch00000090990000001225/index.m3u8
+#EXTINF:-1 group-title="未分类",1227
+http://117.135.56.6:6060/cms001/ch00000090990000001227/index.m3u8
+#EXTINF:-1 group-title="未分类",1226
+http://117.135.56.6:6060/cms001/ch00000090990000001226/index.m3u8
+#EXTINF:-1 group-title="未分类",1228
+http://117.135.56.6:6060/cms001/ch00000090990000001228/index.m3u8
+#EXTINF:-1 group-title="未分类",1229
+http://117.135.56.6:6060/cms001/ch00000090990000001229/index.m3u8
+#EXTINF:-1 group-title="未分类",1230
+http://117.135.56.6:6060/cms001/ch00000090990000001230/index.m3u8
+#EXTINF:-1 group-title="未分类",1232
+http://117.135.56.6:6060/cms001/ch00000090990000001232/index.m3u8
+#EXTINF:-1 group-title="未分类",1234
+http://117.135.56.6:6060/cms001/ch00000090990000001234/index.m3u8
+#EXTINF:-1 group-title="未分类",1236
+http://117.135.56.6:6060/cms001/ch00000090990000001236/index.m3u8
+#EXTINF:-1 group-title="未分类",1235
+http://117.135.56.6:6060/cms001/ch00000090990000001235/index.m3u8
+#EXTINF:-1 group-title="未分类",1240
+http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
+#EXTINF:-1 group-title="未分类",1237
+http://117.135.56.6:6060/cms001/ch00000090990000001237/index.m3u8
+#EXTINF:-1 group-title="未分类",1241
+http://117.135.56.6:6060/cms001/ch00000090990000001241/index.m3u8
+#EXTINF:-1 group-title="未分类",1239
+http://117.135.56.6:6060/cms001/ch00000090990000001239/index.m3u8
+#EXTINF:-1 group-title="未分类",1243
+http://117.135.56.6:6060/cms001/ch00000090990000001243/index.m3u8
+#EXTINF:-1 group-title="未分类",1242
+http://117.135.56.6:6060/cms001/ch00000090990000001242/index.m3u8
+#EXTINF:-1 group-title="未分类",1245
+http://117.135.56.6:6060/cms001/ch00000090990000001245/index.m3u8
+#EXTINF:-1 group-title="未分类",1248
+http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
+#EXTINF:-1 group-title="未分类",1258
+http://117.135.56.6:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 group-title="未分类",1268
+http://117.135.56.6:6060/cms001/ch00000090990000001268/index.m3u8
+#EXTINF:-1 group-title="未分类",1278
+http://117.135.56.6:6060/cms001/ch00000090990000001278/index.m3u8
+#EXTINF:-1 group-title="未分类",1298
+http://117.135.56.6:6060/cms001/ch00000090990000001298/index.m3u8
+#EXTINF:-1 group-title="未分类",1309
+http://117.135.56.6:6060/cms001/ch00000090990000001309/index.m3u8
+#EXTINF:-1 group-title="未分类",1318
+http://117.135.56.6:6060/cms001/ch00000090990000001318/index.m3u8
+#EXTINF:-1 group-title="未分类",1328
+http://117.135.56.6:6060/cms001/ch00000090990000001328/index.m3u8
+#EXTINF:-1 group-title="未分类",1338
+http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
+#EXTINF:-1 group-title="未分类",1348
+http://117.135.56.6:6060/cms001/ch00000090990000001348/index.m3u8
+#EXTINF:-1 group-title="未分类",1359
+http://117.135.56.6:6060/cms001/ch00000090990000001359/index.m3u8
+#EXTINF:-1 group-title="未分类",1378
+http://117.135.56.6:6060/cms001/ch00000090990000001378/index.m3u8
+#EXTINF:-1 group-title="未分类",1388
+http://117.135.56.6:6060/cms001/ch00000090990000001388/index.m3u8
+#EXTINF:-1 group-title="未分类",1398
+http://117.135.56.6:6060/cms001/ch00000090990000001398/index.m3u8
+#EXTINF:-1 group-title="未分类",1420
+http://117.135.56.6:6060/cms001/ch00000090990000001420/index.m3u8
+#EXTINF:-1 group-title="未分类",1430
+http://117.135.56.6:6060/cms001/ch00000090990000001430/index.m3u8
+#EXTINF:-1 group-title="未分类",1451
+http://117.135.56.6:6060/cms001/ch00000090990000001451/index.m3u8
+#EXTINF:-1 group-title="未分类",青海卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001450/index.m3u8
+#EXTINF:-1 group-title="未分类",1460
+http://117.135.56.6:6060/cms001/ch00000090990000001460/index.m3u8
+#EXTINF:-1 group-title="未分类",1470
+http://117.135.56.6:6060/cms001/ch00000090990000001470/index.m3u8
+#EXTINF:-1 group-title="未分类",欢笑剧场 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001490/index.m3u8
+#EXTINF:-1 group-title="未分类",北京卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001500/index.m3u8
+#EXTINF:-1 group-title="未分类",北京卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001510/index.m3u8
+#EXTINF:-1 group-title="未分类",CCTV1
+http://117.135.56.6:6060/cms001/ch00000090990000001520/index.m3u8
+#EXTINF:-1 group-title="未分类",深圳卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001521/index.m3u8
+#EXTINF:-1 group-title="未分类",内蒙古卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001530/index.m3u8
+#EXTINF:-1 group-title="未分类",广东卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001540/index.m3u8
+#EXTINF:-1 group-title="未分类",广东卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001550/index.m3u8
+#EXTINF:-1 group-title="未分类",深圳卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001560/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC家庭影院
+http://117.135.56.6:6060/cms001/ch00000090990000001570/index.m3u8
+#EXTINF:-1 group-title="未分类",女性时尚
+http://117.135.56.6:6060/cms001/ch00000090990000001571/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC动作电影
+http://117.135.56.6:6060/cms001/ch00000090990000001580/index.m3u8
+#EXTINF:-1 group-title="未分类",CHC影迷电影
+http://117.135.56.6:6060/cms001/ch00000090990000001581/index.m3u8
+#EXTINF:-1 group-title="未分类",山东卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001582/index.m3u8
+#EXTINF:-1 group-title="未分类",风云足球
+http://117.135.56.6:6060/cms001/ch00000090990000001590/index.m3u8
+#EXTINF:-1 group-title="未分类",央视台球
+http://117.135.56.6:6060/cms001/ch00000090990000001600/index.m3u8
+#EXTINF:-1 group-title="未分类",兵器科技
+http://117.135.56.6:6060/cms001/ch00000090990000001610/index.m3u8
+#EXTINF:-1 group-title="未分类",世界地理
+http://117.135.56.6:6060/cms001/ch00000090990000001620/index.m3u8
+#EXTINF:-1 group-title="未分类",第一剧场
+http://117.135.56.6:6060/cms001/ch00000090990000001621/index.m3u8
+#EXTINF:-1 group-title="未分类",高尔夫网球
+http://117.135.56.6:6060/cms001/ch00000090990000001630/index.m3u8
+#EXTINF:-1 group-title="未分类",怀旧剧场
+http://117.135.56.6:6060/cms001/ch00000090990000001640/index.m3u8
+#EXTINF:-1 group-title="未分类",东方卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
+#EXTINF:-1 group-title="未分类",风云剧场
+http://117.135.56.6:6060/cms001/ch00000090990000001650/index.m3u8
+#EXTINF:-1 group-title="未分类",风云音乐
+http://117.135.56.6:6060/cms001/ch00000090990000001660/index.m3u8
+#EXTINF:-1 group-title="未分类",央视文化精品
+http://117.135.56.6:6060/cms001/ch00000090990000001670/index.m3u8
+#EXTINF:-1 group-title="未分类",中国教育电视
+http://117.135.56.6:6060/cms001/ch00000090990000001680/index.m3u8
+#EXTINF:-1 group-title="未分类",四川卫视 4k
+http://117.135.56.6:6060/cms001/ch00000090990000001690/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001700/index.m3u8
+#EXTINF:-1 group-title="未分类",湖南卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001710/index.m3u8
+#EXTINF:-1 group-title="未分类",浙江卫视4k
+http://117.135.56.6:6060/cms001/ch00000090990000001720/index.m3u8
